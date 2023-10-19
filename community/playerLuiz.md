@@ -6,7 +6,7 @@ Olá Jogadores!
 
 ## Conecte-se comigo 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luiz-paulosilva/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:SEUEMAIL)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:luizmachine123@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://https://discord.com/channels/apenaslong/)
 
 
